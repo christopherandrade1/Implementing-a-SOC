@@ -25,7 +25,7 @@ Disable Defender on Windows VM: <br/>
 - <a href="https://www.microsoft.com/en-us/software-download/windows10">Windows 10</a>
 <br />
 
-Ensured connectivity with VM: <br/>
+Disable Defender on Windows VM: <br/>
 
 - Utilized the Command Line interface to retrieve the IPv4 address from my virtual machine using the 'ipconfig' command
 - Executed a diagnostic procedure by initiating a ping operation to the IP address of a virtual machine from my local workstation, yielding a "Request timed out" response
