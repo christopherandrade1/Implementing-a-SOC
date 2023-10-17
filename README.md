@@ -21,7 +21,7 @@
 Disable Defender on Windows VM: <br/>
 
 - <a href="https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html">VMware</a>
-- <a href="[https://ubuntu.com/download/desktop)">Ubuntu</a>
+- <a href="https://ubuntu.com/download/desktop)">Ubuntu</a>
 - <a href="https://www.microsoft.com/en-us/software-download/windows10">Windows 10</a>
 <br />
 
