@@ -27,7 +27,8 @@ Installed and setup WMware, Ubuntu, Windows VM: <br/>
 
 Disable Defender on Windows VM: <br/>
 
-- Permanently disabled Microsoft Defender so it doesn't interfere with further shady steps planned for this project  
+- Permanently disabled Microsoft Defender so it doesn't interfere with further shady steps planned for this project
+- Disabled Tamper Protection 
 
 <p align="center"> 
 <br />
