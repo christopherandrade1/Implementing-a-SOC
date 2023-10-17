@@ -27,7 +27,7 @@ Installed and setup WMware, Ubuntu, Windows VM: <br/>
 
 Disable Defender on Windows VM: <br/>
 
-- Permanently disabled Microsoft Defender so it doesn't interfere with further steps  
+- Permanently disabled Microsoft Defender so it doesn't interfere with further shady steps planned for this project  
 
 <p align="center"> 
 <br />
