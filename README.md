@@ -35,3 +35,11 @@ Disable Defender on Windows VM: <br/>
 <img src="https://imgur.com/o6gSKAN.png" height="80%" width="80%" alt="Disable Defender on Windows VM"/>
 <br />
 <br />
+
+- Permanently Disable Defender via Group Policy Editor
+
+<p align="center"> 
+<br />
+<img src="https://imgur.com/lrQ22vl.png" height="80%" width="80%" alt="Disable Defender on Windows VM"/>
+<br />
+<br />
