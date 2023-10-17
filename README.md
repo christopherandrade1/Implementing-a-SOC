@@ -27,12 +27,10 @@ Installed and setup WMware, Ubuntu, Windows VM: <br/>
 
 Disable Defender on Windows VM: <br/>
 
-- Utilized the Command Line interface to retrieve the IPv4 address from my virtual machine using the 'ipconfig' command
-- Executed a diagnostic procedure by initiating a ping operation to the IP address of a virtual machine from my local workstation, yielding a "Request timed out" response
-- To address this matter, I disabled the Domain Profile, Private Profile, and Public Profile settings within the Windows Defender Firewall properties, consequently ensuring a stable network connectivity   
+- Permanently disabled Microsoft Defender so it doesn't interfere with further steps  
 
 <p align="center"> 
 <br />
-<img src="https://imgur.com/p6qR24k.png" height="80%" width="80%" alt="Ensured connectivity with VM"/>
+<img src="https://imgur.com/o6gSKAN.png" height="80%" width="80%" alt="Disable Defender on Windows VM"/>
 <br />
 <br />
