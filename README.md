@@ -53,9 +53,20 @@ Disable Defender on Windows VM: <br/>
 <br />
 
 - Boot into Safe Mode to disable all Defender services
+- Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Sense
+- Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WdBoot
+- Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend
+- Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WdNisDrv
+- Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WdNisSvc
+- Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WdFilter
 
 <p align="center"> 
 <br />
-<img src="https://imgur.com/32JkHQs.png" height="80%" width="80%" alt="Disable Defender on Windows VM"/>
+<img src="https://imgur.com/5VnA9cw.png" height="80%" width="80%" alt="Disable Defender on Windows VM"/>
 <br />
-<br 
+<br /> 
+
+Install Sysmon in Windows VM: <br/>
+
+- 
+<br />
