@@ -18,7 +18,7 @@
 
 <h2>Project Overview:</h2>
 
-Disable Defender on Windows VM: <br/>
+Installed and setup WMware, Ubuntu, Windows VM: <br/>
 
 - <a href="https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html">VMware</a>
 - <a href="https://ubuntu.com/download/desktop)">Ubuntu</a>
