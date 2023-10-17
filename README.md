@@ -14,11 +14,11 @@
 
 - <b>VMware</b>
 - <b>Ubuntu</b>
-- <b>Windows</b>
+- <b>Windows VM</b>
 
 <h2>Project Overview:</h2>
 
-Installed and setup WMware, Windows 10, Nessus Essentials: <br/>
+Disable Defender on Windows VM: <br/>
 
 - <a href="https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html">VMware</a>
 - <a href="https://www.microsoft.com/en-us/software-download/windows10">Windows 10</a>
