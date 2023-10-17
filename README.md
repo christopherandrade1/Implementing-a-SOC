@@ -51,3 +51,11 @@ Disable Defender on Windows VM: <br/>
 <img src="https://imgur.com/4IZKSZz.png" height="80%" width="80%" alt="Disable Defender on Windows VM"/>
 <br />
 <br />
+
+- Boot into Safe Mode to disable all Defender services
+
+<p align="center"> 
+<br />
+<img src="https://imgur.com/32JkHQs.png" height="80%" width="80%" alt="Disable Defender on Windows VM"/>
+<br />
+<br 
